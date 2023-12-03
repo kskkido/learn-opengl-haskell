@@ -1,0 +1,6 @@
+packages:
+  packages/learn-opengl-core/
+  packages/learn-opengl-chapter3/
+  packages/learn-opengl-chapter5-hello-triangle/
+  packages/learn-opengl-chapter5-hello-rectangle/
+
